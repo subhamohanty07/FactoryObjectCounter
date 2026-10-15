@@ -1,0 +1,4 @@
+names:
+  0: object
+path: .
+train: train.txt

@@ -1,0 +1,17 @@
+# Generated output videos
+output/*.avi
+output/**/*.avi
+
+# Generated frames and images
+output/**/*.jpg
+output/**/*.jpeg
+output/**/*.png
+output/**/*.mp4
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/

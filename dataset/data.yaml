@@ -1,0 +1,7 @@
+path: C:/Curriculum/factory_object_counter/dataset
+
+train: images/train
+val: images/val
+
+names:
+  0: object

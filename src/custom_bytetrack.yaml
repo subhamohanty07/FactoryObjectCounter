@@ -1,0 +1,17 @@
+tracker_type: bytetrack
+
+# Detection confidence thresholds
+track_high_thresh: 0.35
+track_low_thresh: 0.10
+
+# Minimum confidence for creating a new track
+new_track_thresh: 0.40
+
+# Keep a lost track alive for more frames
+track_buffer: 60
+
+# How similar two detections must be to match
+match_thresh: 0.80
+
+# Combine detection confidence with matching score
+fuse_score: True
